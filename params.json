@@ -1,0 +1,6 @@
+{
+  "name": "ClearTables",
+  "tagline": "Simplify your OpenStreetMap usage",
+  "body": "Confused by all the schemas for using OpenStreetMap data for analysis or rendering? Clear tables makes it easier by abstracting OSM tags, using best practices, being open source, and building on standard tools\r\n\r\n### Abstracting OSM tags\r\nOpenStreetMap's free-form tag system where you don't need approval to map a new type of feature is one of its strengths, but it can make it hard for a data consumer. Instead of raw OSM tags where there can be multiple ways to tag the same object, ClearTables turns them into different PostgreSQL tables and columns.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
